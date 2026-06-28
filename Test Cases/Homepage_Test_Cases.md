@@ -11,3 +11,15 @@
 
 **Expected Result**
 Products related to "iPhone" are displayed.
+
+
+## TC-002 Verify Logo Redirect
+
+**Preconditions**
+- User is on any page of the website.
+
+**Steps**
+1. Click the website logo.
+
+**Expected Result**
+The user is redirected to the homepage.
