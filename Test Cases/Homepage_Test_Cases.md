@@ -23,3 +23,15 @@ Products related to "iPhone" are displayed.
 
 **Expected Result**
 The user is redirected to the homepage.
+
+
+## TC-003 Verify Shopping Cart Opens
+
+**Preconditions**
+- User is on the homepage.
+
+**Steps**
+1. Click the Shopping Cart button.
+
+**Expected Result**
+The Shopping Cart page opens.
