@@ -31,4 +31,4 @@ Medium
 Medium
 
 ## Attachments
-Screenshots/BR-001_Information_Pages_Are_Empty.png
+![BR-001 Screenshot](../Screenshots/BR-001_Information_Pages_Are_Empty.png)
